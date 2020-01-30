@@ -7,3 +7,21 @@
 a:hover{
     color: white;
 }
+
+.hello{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.titre{
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+
+h3{
+   color: rgb(33, 22, 131);
+}
+
+h4{
+    color: rgb(9, 29, 65);
+}
